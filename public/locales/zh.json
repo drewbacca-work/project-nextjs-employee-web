@@ -1,0 +1,20 @@
+{
+  "app.title": "员工管理系统",
+  "header.tab.add": "添加",
+  "header.tab.edit": "修改",
+  "header.tab.view": "浏览",
+  "view.col.sn": "编号",
+  "view.col.profile": "图像",
+  "view.col.name": "名字",
+  "view.col.salary": "工资",
+  "view.col.age": "年龄",
+  "view.col.action": "行动",
+  "view.col.edit": "编辑",
+  "edit.no.found": "请在浏览页面选择员工",
+  "add.edit.firstname": "名字",
+  "add.edit.lastname": "姓名",
+  "add.edit.salary": "工资",
+  "add.edit.age": "年龄",
+  "add.edit.button.upload": "上传",
+  "add.edit.button.submit": "提交"
+}

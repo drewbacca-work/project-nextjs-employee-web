@@ -1,0 +1,20 @@
+{
+  "app.title": "Employee Management System",
+  "header.tab.add": "Add",
+  "header.tab.edit": "Edit",
+  "header.tab.view": "View",
+  "view.col.sn": "S/N",
+  "view.col.profile": "Profile Picture",
+  "view.col.name": "Name",
+  "view.col.salary": "Salary",
+  "view.col.age": "Age",
+  "view.col.action": "Action",
+  "view.col.edit": "Edit",
+  "edit.no.found": "Please choose one of the employee in View Page",
+  "add.edit.firstname": "First Name",
+  "add.edit.lastname": "Last Name",
+  "add.edit.salary": "Salary",
+  "add.edit.age": "Age",
+  "add.edit.button.upload": "Upload",
+  "add.edit.button.submit": "Submit"
+}
